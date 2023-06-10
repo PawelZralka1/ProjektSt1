@@ -1,0 +1,11 @@
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\bin\Debug\ProjektST1_w65453.exe.config
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\bin\Debug\ProjektST1_w65453.exe
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\bin\Debug\ProjektST1_w65453.pdb
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.csproj.AssemblyReference.cache
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.Properties.Resources.resources
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.exe
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.pdb
+C:\Users\Paweł\Desktop\ProjektST1_w65453\ProjektST1_w65453\obj\Debug\ProjektST1_w65453.ToDo.resources
